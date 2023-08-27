@@ -6,12 +6,6 @@ import mock4 from "../img/mock4.png"
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
-/*
-So let's get started! Some of the info below is pretty self-explanatory, like 'firstName' and 'bio'. I'll try to explain anything
-that might not be obvious right off the bat :) I recommend looking at the template example live using "npm start" to get an idea
-of what each of the values mean.
- */
-
 export const info = {
     firstName: "Evgeny",
     lastName: "Marik",
@@ -33,7 +27,7 @@ export const info = {
         {
             link: "https://www.nerdwallet.com/reviews/investing/brokers/interactive-brokers#:~:text=Interactive%20Brokers%20attracts%20active%20traders,trades%20of%20stocks%20and%20ETFs.",
             emoji: '📈',
-            text: ' Daily Traider'
+            text: ' Daily Trader'
         },
         {
             link: "mailto:evgenymarik@gmail.com?subject=Let's chat!",
@@ -61,7 +55,7 @@ export const info = {
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
+            link: "https://www.linkedin.com/in/evgeny-marik-b48880217",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
@@ -69,7 +63,7 @@ export const info = {
     bio: " I'm a fun-loving guy who finds joy in the simple pleasures of life. I have a deep love for code, engaging in meaningful conversations, and spending quality time with people. Exploring new places and going on exciting trips are among my favorite ways to create lasting memories. \nProfessionally, I am a software engineer with a B.Sc. degree in Software Engineering. I thrive in the dynamic world of technology, utilizing my skills to design innovative solutions and contribute to the ever-evolving field. \nIn addition to my passion for software engineering, I have a keen interest in the stock market. As a daily trader, I enjoy analyzing market trends and making informed investment decisions. This combination of technical expertise and financial acumen allows me to approach challenges with a unique perspective. \n\n With my vibrant personality, love for life, and diverse skill set, I bring a refreshing energy to any team or project. I embrace new opportunities with enthusiasm, always seeking personal growth and professional excellence. Let's connect and explore how our shared interests and expertise can lead to exciting collaborations and meaningful achievements.",
     skills:
         {
-            proficientWith: ['javascript', 'python', 'java', 'c#/c', ,' git(.*)','nodejs', 'react', 'vue.js', 'sql/nosql', 'android', 'aws', 'linux/windows'],
+            proficientWith: ['javascript', 'python', 'java', 'c#/c', ,' git(.*)','nodejs', 'react.js', 'vue.js', 'sql/nosql', 'android', 'aws', 'linux/windows'],
             exposedTo: ['c++' , 'docker' ,'go' , 'k8', 'angular' ],
         }
     ,
@@ -94,9 +88,7 @@ export const info = {
             label: 'movies',
             emoji: '🎥'
         }
-        
-// Same as above, change the emojis to match / relate to your hobbies or interests.
-// You can also remove the emojis if you'd like, I just think they look cute :P
+    
     ],
     portfolio: [
         {

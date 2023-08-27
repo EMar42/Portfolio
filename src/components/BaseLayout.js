@@ -44,7 +44,7 @@ export default function BaseLayout() {
             <Grid item>
                <Box component={'footer'} display={'flex'} flexDirection={'column'} alignItems={'center'}
                     py={'1.5rem'} sx={{opacity: 0.5}} width={'100%'}>
-                  <p>© copyright <a href={''}>EM</a></p>
+                  <p>© copyright EM</p>
                   <p> 2022</p>
                </Box>
             </Grid>
