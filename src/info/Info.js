@@ -38,7 +38,7 @@ export const info = {
             text: 'Based in Israel'
         },
         {
-            link: 'https://drive.google.com/file/d/1EVHQ_gDkEwHTv83MzVhkVGfykxSsDGv7/view?usp=sharing',
+            link: 'https://drive.google.com/file/d/1I81AvYzh5kvArq5zk_6ewDMFcaghv7Ae/view?usp=sharing',
             emoji: '📥',
             text: 'CV [press here to download]'
         }
